@@ -1,0 +1,227 @@
+[
+    {
+      "id": "101A",
+      "job": "doctor",
+      "title": "Dr. Jonathon Muray",
+      "field": "Endocrinology",
+      "price":"$200",
+      "contact":"+44019293883",
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/9wZ3pHC/doc3.jpg"
+    },
+    {
+      "id": "102A",
+      "job": "doctor",
+      "title": "Dr. David Osgood",
+      "field": "Neurology",
+      "price":"$200",
+      "contact":"+44019293883",
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/61rqz0W/doc9.jpg"
+    },
+    {
+      "id": "103A",
+      "job": "doctor",
+      "title": "Dr. Mathilda Jackson",
+      "field": "Opthalmology",
+      "price":"$200",
+      "contact":"+44019293883",
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/JqwpP8d/dox6.jpg"
+    },
+    {
+      "id": "104B",
+      "job": "doctor",
+      "title": "Dr. Manik Roy",
+      "field": "General Medicine",
+      "price":"$100",
+      "contact":"+44019293883",
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/Dfd5pPN/doc2.jpg"
+    },
+    {
+      "id": "105B",
+      "job": "doctor",
+      "title": "Dr. Ayub Hossain",
+      "field": "General Medicine",
+      "price":"$100",
+      "contact":"+44019293883",
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/nszNrm5/doc5.jpg"
+    },
+    {
+      "id": "106B",
+      "job": "doctor",
+      "title": "Dr. Stewart Harrold",
+      "field": "General Medicine",
+      "price":"$100",
+      "contact":"+44019293883",
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/C93cLYW/doc7.jpg"
+    },
+    {
+      "id": "107C",
+      "job": "doctor",
+      "title": "Dr. Manisha Koirala",
+      "field": "Gynocology",
+      "price":"$150",
+      "contact":"+44019293883",
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/vcsMzYd/doc1.jpg"
+    },
+    {
+      "id": "108C",
+      "job": "doctor",
+      "title": "Dr. Elizabeth Holland",
+      "field": "Podiatry",
+      "price":"$150",
+      "contact":"+44019293883",
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/nMYsVxh/doc4.jpg"
+    },
+    {
+      "id": "109C",
+      "job": "doctor",
+      "title": "Dr. Robert R. Pattison",
+      "field": "Gynocology and Podiatry",
+      "price":"$150",
+      "contact":"+44019293883",
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/hf2F5gC/doc8.jpg"
+    },
+    {
+      "id": "110D",
+      "job": "lab",
+      "title": "Blood Tests",
+      "price":"$70",
+      "contact":"+44019293883",
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/0KHZLPR/blood-test.jpg"
+    },
+    {
+      "id": "111D",
+      "job": "lab",
+      "title": "Cardiovascular Tests",
+      "price":"$120",
+      "contact":"+44019293883",
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/W5HsTg5/cardiovascular-tests.jpg"
+    },
+    {
+      "id": "112D",
+      "job": "lab",
+      "title": "Digital CT Scan",
+      "price":"$180",
+      "contact":"+44019293883",
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/X4nzCWf/digital-ct-scan.jpg"
+    },
+    {
+      "id": "113E",
+      "job": "lab",
+      "title": "Digital Fast MRI",
+      "price":"$250",
+      "contact":"+44019293883",
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/zbVkyBF/digital-fast-MRI.jpg"
+    },
+    {
+      "id": "114E",
+      "job": "lab",
+      "title": "Faster Cancer Detection",
+      "price":"$390",
+      "contact":"+44019293883",
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/tHjJ8KY/fast-cancer-detection.jpg"
+    },
+    {
+      "id": "115E",
+      "job": "lab",
+      "title": "Genetic Testing",
+      "price":"$450",
+      "contact":"+44019293883",
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/23RLKJP/genetic-testing.jpg"
+    },
+    {
+      "id": "116F",
+      "job": "lab",
+      "title": "Hormone Analysis",
+      "price":"$395",
+      "contact":"+44019293883",
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/mbcst0r/hormone-analysis.jpg"
+    },
+    {
+      "id": "117F",
+      "job": "lab",
+      "title": "Nephrology Tests",
+      "price":"$175",
+      "contact":"+44019293883",
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/nrgv2x0/nephrology-tests.jpg"
+    },
+    {
+      "id": "118F",
+      "job": "lab",
+      "title": "Urine Tests",
+      "price":"$120",
+      "contact":"+44019293883",
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/6PtfFgp/urine-test.jpg"
+    },
+    {
+      "id": "119G",
+      "job": "therapy",
+      "title": "Bowl Movement Therapy",
+      "price":"$260",
+      "contact":"+44019293883",
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/Fm6wLrZ/Bowl-Movement-Therapy.jpg"
+    },
+    {
+      "id": "120G",
+      "job": "therapy",
+      "title": "Counselling",
+      "price":"$220",
+      "contact":"+44019293883",
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/c1NQH98/Counseling.jpg"
+    },
+    {
+      "id": "121G",
+      "job": "therapy",
+      "title": "Physiotherapy",
+      "price":"$300",
+      "contact":"+44019293883",
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/yS2RfQB/Physiotherapy.jpg"
+    },
+    {
+      "id": "122H",
+      "job": "therapy",
+      "title": "Prosthetics Device Therapy",
+      "price":"$600",
+      "contact":"+44019293883",
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/2ZPDqMc/Prosthetics-Device-Therapy.jpg"
+    },
+    {
+      "id": "123H",
+      "job": "therapy",
+      "title": "Skin Therapy",
+      "price":"$450",
+      "contact":"+44019293883",
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/kqjBw4B/Skin-Therapy.jpg"
+    },
+    {
+      "id": "124H",
+      "job": "therapy",
+      "title": "Welness Therapy",
+      "price":"$345",
+      "contact":"+44019293883",
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/mC9KCVv/Welness-Therapy.jpg"
+    }
+  ]
