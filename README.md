@@ -12,6 +12,7 @@
 
 * React Bootstrap
 * Normal Bootstrap
+* Fontawesome
 * React Router
 * Nested Routing
 * Firebase Authentication
