@@ -18,5 +18,5 @@
 * Email login and sign up
 * Gmail login and sign up
 * ISSUES RESOLVED:
-    * Problem with netlify and react router page reload has been solved
-    *  Netlify app has been added in the firebase authentication section's provider sub-section
+ * Problem with netlify and react router page reload has been solved
+ *  Netlify app has been added in the firebase authentication section's provider sub-section
